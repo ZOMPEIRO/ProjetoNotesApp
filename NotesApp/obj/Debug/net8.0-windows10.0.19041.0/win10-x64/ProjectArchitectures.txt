@@ -1,0 +1,1 @@
+D:\Felipe\Mobile\NotesApp\NotesApp\NotesApp.csproj;x64
