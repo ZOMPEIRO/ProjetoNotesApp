@@ -1,3 +1,5 @@
+using Android.Widget;
+
 namespace NotesApp;
 
 public partial class NewPage : ContentPage
@@ -14,6 +16,7 @@ public partial class NewPage : ContentPage
     private void SalveButton_Clicked(object sender, EventArgs e)
     {
         File.WriteAllText(fileName, TextEditor.Text);
+        DisplayAlert("ok", "salvo!", "ok");
     }
 
     private void DeleteButton_Clicked(object sender, EventArgs e)

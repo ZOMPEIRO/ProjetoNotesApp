@@ -19,9 +19,16 @@
 
         <ShellContent
             Title="Anotações"
-            ContentTemplate="{DataTemplate local:Notepad}"
+            ContentTemplate="{DataTemplate local:NewPAge}"
             Route="NewPage" 
         />
+
+        <ShellContent
+            Title="Sobre o App"
+            ContentTemplate="{DataTemplate local:About}"
+            Route="About" 
+         />
+
 
 
     </TabBar>

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Felipe\\Mobile\\NotesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|d:\\felipe\\mobile\\notesapp\\notesapp\\newpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\newpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|d:\\felipe\\mobile\\notesapp\\notesapp\\about.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\about.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|d:\\felipe\\mobile\\notesapp\\notesapp\\newpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\newpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|d:\\felipe\\mobile\\notesapp\\notesapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|d:\\felipe\\mobile\\notesapp\\notesapp\\about.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\about.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|d:\\felipe\\mobile\\notesapp\\notesapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|d:\\felipe\\mobile\\notesapp\\notesapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E005FFDF-2740-4105-8689-C1CACFFFAFD2}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NewPage.xaml.cs",
-              "DocumentMoniker": "D:\\Felipe\\Mobile\\NotesApp\\NotesApp\\NewPage.xaml.cs",
-              "RelativeDocumentMoniker": "NotesApp\\NewPage.xaml.cs",
-              "ToolTip": "D:\\Felipe\\Mobile\\NotesApp\\NotesApp\\NewPage.xaml.cs",
-              "RelativeToolTip": "NotesApp\\NewPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Title": "About.xaml.cs",
+              "DocumentMoniker": "D:\\Felipe\\Mobile\\NotesApp\\NotesApp\\About.xaml.cs",
+              "RelativeDocumentMoniker": "NotesApp\\About.xaml.cs",
+              "ToolTip": "D:\\Felipe\\Mobile\\NotesApp\\NotesApp\\About.xaml.cs",
+              "RelativeToolTip": "NotesApp\\About.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T23:15:53.796Z",
+              "WhenOpened": "2025-03-08T00:39:17.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.xaml",
+              "DocumentMoniker": "D:\\Felipe\\Mobile\\NotesApp\\NotesApp\\About.xaml",
+              "RelativeDocumentMoniker": "NotesApp\\About.xaml",
+              "ToolTip": "D:\\Felipe\\Mobile\\NotesApp\\NotesApp\\About.xaml",
+              "RelativeToolTip": "NotesApp\\About.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T00:36:41.955Z",
               "EditorCaption": ""
             },
             {
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\Felipe\\Mobile\\NotesApp\\NotesApp\\MainPage.xaml",
               "RelativeDocumentMoniker": "NotesApp\\MainPage.xaml",
@@ -75,7 +92,7 @@
               "RelativeDocumentMoniker": "NotesApp\\AppShell.xaml",
               "ToolTip": "D:\\Felipe\\Mobile\\NotesApp\\NotesApp\\AppShell.xaml",
               "RelativeToolTip": "NotesApp\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-22T00:29:05.989Z",
               "EditorCaption": ""
